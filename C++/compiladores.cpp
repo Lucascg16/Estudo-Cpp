@@ -38,4 +38,6 @@ int main()
             cout << "Triangulo  impossivel \n";
         }
     } while ((a != 0) && (b != 0) && (c != 0));
+
+    return 0;
 }
